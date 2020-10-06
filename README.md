@@ -65,4 +65,3 @@ This project is for getting data about state of tesla vehicles through unofficia
   </td>
 </tr>
 
-
