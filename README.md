@@ -13,7 +13,6 @@ This project is for getting data about state of tesla vehicles through unofficia
 ### tesla_after_celery.py
 [tesla_after_celery.py](https://gitlab.com/01ai.dev.data.hong/pro_tesla/-/blob/JUNG/tesla_after_celery.py)
 - a source code after applying celery
-- but doesn't work well so need to revise it later
 
 ### Celery
 [First Steps with Celery](http://docs.celeryproject.org/en/latest/getting-started/first-steps-with-celery.html#celerytut-broker)
