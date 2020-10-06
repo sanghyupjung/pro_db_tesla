@@ -7,11 +7,11 @@ This project is for getting data about state of tesla vehicles through unofficia
 - load data in database for tesla
 
 ### tesla_before_celery.py
-[tesla_before_celery.py](https://gitlab.com/01ai.dev.data.hong/pro_tesla/-/blob/JUNG/tesla_before_celery.py)
+[tesla_before_celery.py](https://github.com/sanghyupjung/pro_db_tesla/blob/master/tesla_before_celery.py)
 - a source code before applying celery
 
 ### tesla_after_celery.py
-[tesla_after_celery.py](https://gitlab.com/01ai.dev.data.hong/pro_tesla/-/blob/JUNG/tesla_after_celery.py)
+[tesla_after_celery.py](https://github.com/sanghyupjung/pro_db_tesla/blob/master/tesla_after_celery.py)
 - a source code after applying celery
 
 ### Celery
